@@ -1,0 +1,6 @@
+projectKey=CxJava
+serverUrl=http://10.31.1.210:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://10.31.1.210:9000/dashboard/index/CxJava
+ceTaskId=AV3NQ8x_ajHgBWmw9wHC
+ceTaskUrl=http://10.31.1.210:9000/api/ce/task?id=AV3NQ8x_ajHgBWmw9wHC
